@@ -21,3 +21,6 @@ th, td {
     background-color: lightblue;
  width: 30%;
  }
+ canvas{
+  border: 1px solid;
+ }
